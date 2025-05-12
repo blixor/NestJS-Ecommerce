@@ -1,5 +1,3 @@
-# Elecshop - Modern eCommerce Platform
-
 A full-stack eCommerce platform built with Next.js, Nest.js, and MongoDB, featuring AI-powered product management and modern authentication.
 
 ![Elecshop preview image](./apps/web/public/images/preview.png)
@@ -136,8 +134,5 @@ Start the client
 pnpm start:web
 ```
 
-## Author
-- [@achrafdev](https://achrafdev.com)
-
-**Thanks for sharing** 🚀
+**Thanks for your time** 🚀
 
